@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'For the Word and the Testimony'
+theme = 'beautifulhugo'
