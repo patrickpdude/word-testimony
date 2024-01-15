@@ -1,7 +1,7 @@
 ---
 title: 'Hello World'
 date: 2024-01-15T12:49:08-05:00
-draft: true
+draft: false
 author: 'Patrick Dudenhofer'
 ---
 
