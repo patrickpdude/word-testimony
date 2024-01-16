@@ -1,8 +1,7 @@
-baseURL = 'https://patrickdude.github.io/'
-languageCode = 'en-us'
+baseURL = "https://patrickdude.github.io/"
 DefaultContentLanguage = "en"
-title = 'Word & Testimony'
-theme = 'beautifulhugo'
+title = "Word & Testimony"
+theme = "beautifulhugo"
 
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -14,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  homeTitle = "Word & Testimony" # Set a different text for the header on the home page
   subtitle = "For the Word & the Testimony"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
