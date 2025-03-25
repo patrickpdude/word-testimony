@@ -16,13 +16,13 @@ tags: ["Scripture", "covenant", "revelation", "perspicuity"]
 
 There are six primary covenants in the Old Testament given by God which progressively reveal to sinful humanity His plans and purposes for redeeming His Creation Project.
 Those primary covenants are God's covenants with Noah (Genesis 9), Abraham (Genesis 12, 15, 17), the nation of Israel (Exodus 20), Phinehas (Numbers 25), David (2 Samuel 7), and finally the "New Covenant" (Jeremiah 31, 33).
-Only the covanant with Israel (the Mosaic Covenant) is conditional.
+Only the covenant with Israel (the Mosaic Covenant) is conditional.
 The rest of the covenants (Noahic, Abrahamic, Priestly, Davidic, and New) are unconditional.
-God is the only One responsible within a "super-binding" promise with the other party in each of these five covenants.
+God is the only One responsible within His "super-binding" promise with the other party in each of these five covenants.
 
-It has been asserted that the promises to the Aaronic priesthood and the Levites were conditional (see Exodus 40:15 & 1 Samuel 2:30), but that does not imply that this specific covenant with Phinehas was conditional.
+It has been asserted that the promises to the Aaronic priesthood and the Levites were conditional (see Exodus 40:15 & 1 Samuel 2:30), but that does not imply that this specific covenant with Phinehas was/is conditional.
 In the plain reading of Numbers 25 there is no "if" or conditional placed upon Phinehas in order to receive or keep God's covenant with him.
-The general **promises** to Aaron (they cannot be considered covenants) could be conditional (though I'm not arguing for or against that here), but God's **covenant** with Phinehas *is* unconditional and independent of any promise the Lord made to Aaron or the tribe of Levi.
+The general **promises** to Aaron (they cannot be considered covenants) *could* be conditional (though I'm not arguing for or against that here), but God's **covenant** with Phinehas *is* unconditional and is given independently of any promise the Lord made to Aaron or the tribe of Levi.
 Psalm 106 makes that point even more explicitly - there is no covenantal condition placed upon Phinehas.
 
 >30 Then Phinehas stood up and intervened,  
@@ -32,8 +32,12 @@ To all generations forevermore.
 --Psalm 106:30-31 NKJV
 
 ### Why does this matter?
-If man falsely asserts conditions upon God's unconditional covenants, then nothing that God has said can be trusted. It's the same as asserting that God didn't mean what He clearly said. And if God doesn't mean what He clearly says in His covenants (which He uses to confirm His Word to sinful men, Hebrews 6:17-18), then we have absolutely no reason to believe any of God's promises or anything else that He has said.
+If man falsely asserts conditions upon God's unconditional covenants, then nothing that God has said can be trusted.
+It's the same as asserting that God didn't mean what He clearly said.
+And if God didn't actually mean what He clearly said in His covenants (which He used to confirm His Word to sinful men, Hebrews 6:17-18), then we have absolutely no reason to believe any of God's promises or anything else that He has said.
 
-God values His own Word. God communicates to be understood. God means what He says. 
+The unchanging God values His own unchanging Word.  
+God communicates to be understood.  
+God means what He says. 
 
 >**Exactly what God says is precisely what He does because of Who He is.**
