@@ -53,7 +53,7 @@ If your spouse is not literally and physically dead, getting remarried is adulte
 
 (You'll notice there is no asterisk on the above statement.)
 
-**If you made a promise to your spouse with no escape clause except for death, and then marry someone else you are a covenant-breaker and a liar.**
+**If you made a promise to your spouse with no escape clause except for death, and then marry someone else, you are a covenant-breaker and a liar.**
 
 If you disagree, you have multiple questions that you must answer.
 1. When did the individual's marriage vow to his or her spouse change to include an escape clause?
@@ -112,7 +112,7 @@ These twelve passages are extremely clear regarding God's design for marriage an
 
 ## The "Problem" Passage
 
-There is only one passage that begets contention in its interpretation. And for some reason it is used to reinterpret all the rest of the Bible's clear teaching regarding marriage and divorce: The "Exception Clause" of Matthew 19.
+There is only one passage that begets contention in its interpretation. And for some reason it is used to reinterpret all the rest of the Bible's clear teaching regarding marriage and divorce: the "Exception Clause" of Matthew 19.
 
 ### The Pharisees Attempt to Test Jesus (Matthew 19)
 
@@ -137,9 +137,9 @@ As we walk through Matthew 19 do not forget who Jesus is speaking to in this pas
 *Pharisees:* (We can get Jesus, hehehe!) Is it lawful for a man to divorce his wife for any reason?  
 *Jesus:* Absolutely not. What God joined together, let not man separate.  
 *Pharisees:* But Moses commanded it.  
-*Jesus:* No, he didn't. Divorce was permitted in very limited circumstances because Israel is a sinful, rebellious people (in all ways, not just marriage). God's pattern is marriage for life. If you get divorced, you can't remarry without committing adultery.  
-*Disciples:* If marriage is for life unconditionally it's better not to marry! There's no recourse or redo if sin messes it up!  
-*Jesus:* Some are single because of birth defects. Some are single not of their own choice but because of other men (physical mutilation or divorce). Some are single for the kingdom of heaven's sake. My followers will accept the state that I place them in.
+*Jesus:* No, he didn't. Divorce was permitted in very limited circumstances because Israel is a sinful, rebellious people (in all ways, not just marriage). God's pattern is marriage for life. If you get divorced, you can't remarry without committing adultery. In any case, you can't pretend that your marriage (and your covenant vow) didn't happen.  
+*Disciples:* If marriage is for life unconditionally and the marriage vow is permanent it's better not to marry! There's no recourse or redo if sin messes it up!  
+*Jesus:* Some are single because of birth defects. Some are single not of their own choice but because of other men's sin (physical mutilation or divorce). Some are single for the kingdom of heaven's sake. My followers will accept the state that I place them in.
 
 ### The Discussion
 
@@ -151,15 +151,17 @@ Verse 7 recounts the springing of the Pharisees trap: "But Moses commanded divor
 
 In verse 8 Jesus corrects the Pharisees ("No, Moses never *commanded*...") and affirms that in the Deuteronomy 24 case law description divorce was permitted by Moses. Notice that Jesus did not say that Moses permitted remarriage after divorce. (Nor can that be assumed - Deuteronomy 24 doesn't allow it.) Furthermore, Jesus declares that divorce was only permitted in that instance because of Israel's rebellious, sinful hearts.
 
-In verse 9 Jesus states the husband who divorces his wife for any reason other than adultery and marries another commits adultery. Don't hear what Jesus isn't saying. Jesus' statement logically says nothing about the husband who divorces an adulterous wife. Jesus is not approving remarriage for a divorce predicated on adultery. Jesus is not approving remarriage. He is denying divorce is permitted for anything other than adultery. To read approval for remarriage into the text is to add to God's Word. NO OTHER SCRIPTURE EVEN HINTS AT THIS KIND OF APPROVAL. Matthew 19 is the only passage that can be possibly twisted to support that (contested) interpretation. Jesus clearly states that God joined the husband and wife together (v. 6). Jesus is refuting the Pharisees' wrong view of marriage. The Pharisees were asking about divorce to test Jesus. It appears the Pharisees taught that if a husband divorced his wife he could get remarried. They thought they had a clear view of the law regarding marriage and divorce. Jesus refutes their view of marriage and divorce - and shocks His disciples as He does so. However, we know Jesus did clearly address remarriage in Luke 16 and Mark 10: Whoever divorces his wife (for whatever reason - Jesus doesn't specify) and marries another commits adultery. Whoever marries a divorced wife (for whatever reason - Jesus doesn't specify) commits adultery (Luke 16, Mark 10, & Matthew 5).
+In verse 9 Jesus states the husband who divorces his wife for any reason other than adultery and marries another commits adultery. Don't hear what Jesus isn't saying. Jesus' statement says nothing about the husband who divorces an adulterous wife. Jesus is not approving remarriage for a divorce predicated on adultery. Jesus is not approving remarriage. He is denying divorce is permitted for anything other than adultery. To read approval for remarriage into the text is to add to God's Word. NO OTHER SCRIPTURE EVEN HINTS AT THIS KIND OF APPROVAL. (See above.) Matthew 19 is the only passage that can be possibly twisted to support that (contested) interpretation. Jesus clearly states that God joined the husband and wife together (v. 6). Jesus is refuting the Pharisees' wrong view of marriage. The Pharisees were asking about divorce to test Jesus. It appears the Pharisees taught that if a husband divorced his wife he could get remarried. They thought they had a clear view of the law regarding marriage and divorce. Jesus refutes their view of marriage - and shocks His disciples as He does so. However, we know Jesus did clearly address remarriage in Luke 16 and Mark 10: Whoever divorces his wife (for whatever reason - Jesus doesn't specify) and marries another commits adultery. Whoever marries a divorced wife (for whatever reason - Jesus doesn't specify) commits adultery (Luke 16, Mark 10, & Matthew 5).
 
 Verse 8 ("but from the beginning it was not so") and verse 9b ("and whoever marries her who is divorced commits adultery") contradict the interpretion of verse 9a that says it's okay to get remarried if a divorce was a result of sexual immorality. Let the context and let the rest of Scripture drive your interpretation of this contested passage of Scripture. You cannot permit a single phrase to color the rest of Scripture when there is a viable interpretation of the phrase that does not do violence to the clear meaning of the rest of Scripture. Jesus is denying divorce is permitted for anything other than adultery.
 
 Verse 10 shows that the disciples are shocked. Why are they shocked? They believed the Law and the Prophets. Jesus just refuted the conservative view of marriage. The conservative view of the Pharisees was that if you divorced you could get remarried. Jesus says no - what God has joined together, let not man separate. The disciples realized there are no do-overs in marriage. You can get divorced in the case of adultery (though someone who does not have a hard heart will avoid it) but there is no option for remarriage. Marriage is a lifelong covenant, broken only by death. All of Scripture testifies to that reality.
 
+As soon as you say, "Well, it was assumed that remarriage was always permissable after divorce" you undermine your own interpretation of Scripture and make it an interpretation of man. Where does the text of God's Word say that? Show it to me in the Word of God! Build your case from the text. If it doesn't say that, then you are a fool.  
+
 ### The Grammar
 
-The construction of Jesus' words also sheds light on the proper interpretation. The phrase in question "except for sexual immorality" follows (and thus refers only to) the phrase "whoever divorces his wife." It doesn't follow the phrase "whoever divorces his wife and marries another." By this the Savior indicates that divorce for adultery is permitted (though not commanded or required). If Jesus had said "whoever divorces his wife and marries another, except for sexual immorality, commits adultery," He would have acknowledged the option to remarry in the case of immorality of the first marriage. But that's not what the Creator of marriage states. The so-called "Exception Clause" is tied only to divorce by virtue of the grammar of Christ's statement (and all translations render it as such). Christ acknowledges the option of divorce within rebellious, covenant-breaking marriages as He is stepping out of the Pharisees' trap they thought they had set for Him in the Mosaic law. But Jesus clearly refutes their interpretation. Divorce is only an option in the case of sexual immorality. Remarriage (apart from a spouse's death) is never given sanction by Christ.
+The construction of Jesus' words also sheds light on the proper interpretation. The phrase in question **"except for sexual immorality"** follows (and thus refers only to) the phrase "whoever divorces his wife." It doesn't follow the hypothetical phrase "whoever divorces his wife and marries another." By this the Savior indicates that divorce for adultery is permitted (though not commanded or required). If Jesus had said "whoever divorces his wife and marries another, except for sexual immorality, commits adultery," He would have acknowledged the option to remarry in the case of immorality of the first marriage. But that's not what the Creator of marriage states. The so-called "Exception Clause" is tied **only to divorce** by virtue of the grammar of Christ's statement (and all translations render it as such). Christ acknowledges the option of divorce within rebellious, covenant-breaking marriages as He is stepping out of the Pharisees' trap they thought they had set for Him in the Mosaic law. But Jesus clearly refutes their interpretation. Divorce is only an option in the case of sexual immorality. Remarriage (apart from a spouse's death) is never given sanction by Christ.
 
 ### The Example of God
 
@@ -175,11 +177,11 @@ Jeremiah pictures God issuing the northern nation of Israel a certificate of div
 
 # The Conclusion
 
-Whether you are the one divorced or if you are marrying a divorcee, ***if you marry you will commit adultery.*** There is no exception. To claim that Jesus (and the Mosaic law and the creation purpose of God) permits remarriage while a spouse is alive is to adopt the very same position the Pharisees held and thought they could trip Jesus up with. Those who hold such a position ignore the rest of God's Word to their peril and add man's rebellious twisting of marriage to what He has spoken.
+Whether you are the one divorced or your intended spouse is a divorcee, ***if you marry you will commit adultery.*** There is no exception. To claim that Jesus (and the Mosaic law and the creation purpose of God) permits remarriage while a spouse is alive is to adopt the very same position the Pharisees held and thought they could trip Jesus up with. Those who hold such a position ignore the rest of God's Word to their peril and add man's rebellious twisting of marriage to what He has spoken.
 
 No Spirit-filled husband will divorce his wife or get remarried while his wife is still alive. No Spirit-filled wife will get remarried while her husband is alive.
 
-**Believers are called to represent God - Who always keeps His promises.**
+**Believers are called to represent God - Who always keeps His promises. Let the world see God in you by keeping your covenant.**
 
 >For how do you know, O wife, whether you will save [your] husband? Or how do you know, O husband, whether you will save [your] wife?  
 (1 Corinthians 7:16 NKJV)
