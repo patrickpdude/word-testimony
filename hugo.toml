@@ -95,6 +95,12 @@ pygmentsCodefencesGuessSyntax = true
     weight = 1
 	
 [[menu.main]]
+	parent = "links"
+    name = "Marriage, Divorce, and (Not) Remarriage"
+    url = "posts/divorce-remarriage"
+    weight = 2
+	
+[[menu.main]]
     name = "Tags"
     url = "tags"
     weight = 3
