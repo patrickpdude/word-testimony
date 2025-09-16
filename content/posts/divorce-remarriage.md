@@ -39,7 +39,7 @@ Lest He rebuke you, and you be found a liar.
 
 God hates divorce.
 
-Getting divorced does not entitle you to get remarried.
+Being divorced does not entitle you to seek marriage with another spouse (i.e. remarriage).
 
 # Argument 1: Covenant-Breaking
 
@@ -157,7 +157,7 @@ Verse 8 ("but from the beginning it was not so") and verse 9b ("and whoever marr
 
 Verse 10 shows that the disciples are shocked. Why are they shocked? They believed the Law and the Prophets. Jesus just refuted the conservative view of marriage. The conservative view of the Pharisees was that if you divorced you could get remarried. Jesus says no - what God has joined together, let not man separate. The disciples realized there are no do-overs in marriage. You can get divorced in the case of adultery (though someone who does not have a hard heart will avoid it) but there is no option for remarriage. Marriage is a lifelong covenant, broken only by death. All of Scripture testifies to that reality.
 
-As soon as you say, "Well, it was assumed that remarriage was always permissable after divorce" you undermine your own interpretation of Scripture and make it an interpretation of man. Where does the text of God's Word say that? Show it to me in the Word of God! Build your case from the text. If it doesn't say that, then you are a fool.  
+As soon as you say, "Well, it was assumed that remarriage was always permissable after divorce" you undermine your own interpretation of Scripture and make it an interpretation of man. Where does the text of God's Word say that? Show it to be true in the Word of God! Build your case from the text. I, for one, do not want to add to God's words.  
 
 ### The Grammar
 
