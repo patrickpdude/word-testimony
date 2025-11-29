@@ -89,16 +89,22 @@ pygmentsCodefencesGuessSyntax = true
     weight = 2
 	
 [[menu.main]]
+	parent = "links"
+    name = "TWTG Study Guide"
+    url = "posts/twtg-study-guide"
+    weight = 1
+
+[[menu.main]]
     parent = "links"
     name = "Biblical Theology of Compassion, Impartiality, & Justice"
     url = "posts/2024-01-15-biblical-theology-compassion-impartiality-justice"
-    weight = 1
+    weight = 2
 	
 [[menu.main]]
 	parent = "links"
     name = "Marriage, Divorce, and (Not) Remarriage"
     url = "posts/divorce-remarriage"
-    weight = 2
+    weight = 3
 	
 [[menu.main]]
     name = "Tags"
