@@ -9,7 +9,7 @@ tags: ["hebrews", "psalms", "Messiah"]
 draft: false
 ---
 
-## Curious Connections between Hebrews and Psalm 2 
+## Psalm 2: Framing the Book of Hebrews
 
 ### Context 
 > Hebrews 1:2, 5 NKJV  
