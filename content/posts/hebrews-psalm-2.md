@@ -49,7 +49,7 @@ Let's start at the end of Hebrews:
 -- Hebrews 1:5 - The Son (i.e. the King) is revealed on **Mt. Zion**.  
 - Hebrews 1:2 - **God has spoken** through His Son.
 
-Wait. How does Hebrews 1:5 refer to Mt. Zion? Well, Hebrews 1:5 quotes Psalm 2:7 - and the original listeners (who didn't think in terms of "verses") would have immediately thought of the context in Psalm 2. Psalm 2:6 proclaims that the Lord has set His King on Zion and verse six declares that this King is His Son. As soon as the author of Hebrews quotes that snippet of Psalm 2 the hearers (faithful Old Testament Jews) would think of Mt. Zion as the context of that quotation.
+Wait. How does Hebrews 1:5 refer to Mt. Zion? Well, Hebrews 1:5 quotes Psalm 2:7 - and the original listeners (who didn't think in terms of "verses") would have immediately thought of the context in Psalm 2. Psalm 2:6 proclaims that the Lord has set His King on Zion and verse seven declares that this King is His Son. As soon as the author of Hebrews quotes that snippet of Psalm 2 the hearers (faithful Old Testament Jews) would think of Mt. Zion as the context of that quotation.
 
 The author frames the entire book of Hebrews within the context of Psalm 2 - **listen to the Lord's Annointed *or else*!**
 
