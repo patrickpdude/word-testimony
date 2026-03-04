@@ -1,15 +1,15 @@
 ---
-title: "Hebrews 13:5 - About that Promised Rest"
+title: "Hebrews 13:5 - Presence and the Promised Rest"
 author: ""
 type: ""
 date: 2026-03-03T19:47:02-05:00
 subtitle: ""
 image: ""
 tags: ["Hebrews", "Messiah"]
-draft: true
+draft: false
 ---
 
-## About that Promised Rest
+## Presence and the Promised Rest
 
 ### Context
 > Hebrews 13:5-6 NKJV - 
