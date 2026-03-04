@@ -1,6 +1,6 @@
 ---
 title: "Hebrews 13:5 - Presence and the Promised Rest"
-author: ""
+author: "Patrick Dudenhofer"
 type: ""
 date: 2026-03-03T19:47:02-05:00
 subtitle: ""
