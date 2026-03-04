@@ -5,7 +5,7 @@ type: ""
 date: 2026-01-06T13:51:06-05:00
 subtitle: ""
 image: ""
-tags: ["hebrews", "psalms", "Messiah"]
+tags: ["Hebrews", "psalms", "Messiah"]
 draft: false
 ---
 
