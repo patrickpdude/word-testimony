@@ -20,7 +20,7 @@ draft: false
 3 "The LORD your God Himself crosses over before you; He will destroy these nations from before you, and you shall dispossess them. Joshua himself crosses over before you, just as the LORD has said. 
 4 "And the LORD will do to them as He did to Sihon and Og, the kings of the Amorites and their land, when He destroyed them. 
 5 "The LORD will give them over to you, that you may do to them according to every commandment which I have commanded you. 
-6 "Be strong and of good courage, do not fear nor be afraid of them; for the LORD your God, He [is] the One who goes with you. He will not leave you nor forsake you." 
+6 "Be strong and of good courage, do not fear nor be afraid of them; for the LORD your God, He [is] the One who goes with you. **He will not leave you nor forsake you.**" 
 7 Then Moses called Joshua and said to him in the sight of all Israel, "Be strong and of good courage, for you must go with this people to the land which the LORD has sworn to their fathers to give them, and you shall cause them to inherit it.
 8 "And the LORD, He [is] the One who goes before you. He will be with you, **He will not leave you nor forsake you;** do not fear nor be dismayed."
 
